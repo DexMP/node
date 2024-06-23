@@ -1,0 +1,17 @@
+{
+  "name": "node-bot",
+  "version": "1.0.0",
+  "description": "bot for typescript",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "DexMP",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.5.0",
+    "eslint": "^9.5.0",
+    "globals": "^15.6.0",
+    "typescript-eslint": "^7.13.1"
+  }
+}
